@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursorhighlighter/static/css/main.fd1d9422.css",
+    "main.js": "/cursorhighlighter/static/js/main.45c4083e.js",
+    "static/js/787.c2026e37.chunk.js": "/cursorhighlighter/static/js/787.c2026e37.chunk.js",
+    "index.html": "/cursorhighlighter/index.html",
+    "main.fd1d9422.css.map": "/cursorhighlighter/static/css/main.fd1d9422.css.map",
+    "main.45c4083e.js.map": "/cursorhighlighter/static/js/main.45c4083e.js.map",
+    "787.c2026e37.chunk.js.map": "/cursorhighlighter/static/js/787.c2026e37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1d9422.css",
+    "static/js/main.45c4083e.js"
+  ]
+}
